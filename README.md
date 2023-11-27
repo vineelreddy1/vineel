@@ -1,2 +1,2 @@
 # New-coding-bot
-new repository
+my first repository
